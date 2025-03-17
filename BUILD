@@ -1,4 +1,3 @@
-<!--
 # *******************************************************************************
 # Copyright (c) 2024 Contributors to the Eclipse Foundation
 #
@@ -11,7 +10,3 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 # *******************************************************************************
--->
-
-# operating_system
-Repository for the module operating system
